@@ -10,3 +10,5 @@ twitter_token.json
 twitter_tokensecret.json
 APIkeys.json
 petsdb
+Project/stock_data.db
+Project/stock_dta.db
